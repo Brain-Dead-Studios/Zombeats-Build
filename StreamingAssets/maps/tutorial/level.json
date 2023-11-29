@@ -1,0 +1,8 @@
+{
+    "name": "Tutorial",
+    "artist": "Umbresp",
+    "difficulty": 1,
+    "sceneName": "tutorial",
+    "bpm": "100",
+    "initialBpm": 100
+}
