@@ -1,5 +1,5 @@
 {
-    "events":[
+    "events": [
         {
             "time": 0,
             "type": "skippable-cutscene",
@@ -8,32 +8,50 @@
         {
             "time": 0,
             "type": "image",
-            "image": "1stscene"
+            "image": "fail",
+            "imageIndex": 0
+        },
+        {
+            "time": 3.6,
+            "type": "image",
+            "image": "fail",
+            "imageIndex": 1
+        },
+        {
+            "time": 7,
+            "type": "image",
+            "image": "fail",
+            "imageIndex": 2
         },
         {
             "time": 7.2,
             "type": "image",
-            "image": "2ndscene"
+            "image": "fail",
+            "imageIndex": 3
         },
         {
-            "time": 12.6,
+            "time": 12.8,
             "type": "image",
-            "image": "3rdscene"
+            "image": "win",
+            "imageIndex": 0
         },
         {
             "time": 14.4,
             "type": "image",
-            "image": "4thscene"
+            "image": "win",
+            "imageIndex": 1
         },
         {
-            "time": 18.0,
+            "time": 18,
             "type": "image",
-            "image": "5thscene"
+            "image": "win",
+            "imageIndex": 2
         },
         {
             "time": 21.6,
             "type": "image",
-            "image": "6thscene"
+            "image": "win",
+            "imageIndex": 3
         },
         {
             "time": 25.2,
@@ -84,7 +102,7 @@
         {
             "time": 48,
             "type": "tooltip",
-            "text": "Shoot zombies near the edge of the spotlight to maximize damage."
+            "text": "Shoot zombies close to the golden spray paint to get a higher score."
         },
         {
             "time": 57.6,
